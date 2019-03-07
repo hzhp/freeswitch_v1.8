@@ -259,3 +259,11 @@ libs/libsilk-*/
 libs/rabbitmq-c-*/
 libs/rabbitmq-c-*.zip
 libs/ffmpeg-*/
+
+# <hpai code   // 2019-03-06
+# ignore product by compiling
+src/mod/applications/mod_av/test/Makefile
+src/mod/applications/mod_av/test/Makefile.in
+src/mod/event_handlers/mod_rayo/test/Makefile
+src/mod/event_handlers/mod_rayo/test/Makefile.in
+# hpai code>
